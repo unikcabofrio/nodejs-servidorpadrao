@@ -1,0 +1,39 @@
+# 
+# Gerando questão
+# informações necessárias QUANTIDADE
+POST http://localhost:3030/questions
+content-type: application/json
+
+{
+    "quantidade":5
+}
+
+###
+# 
+# Pegar as questões
+GET http://localhost:3030/questions
+
+
+###
+# Pegando as questões com filtro
+# GET http://localhost:3030/questions?search=Primeira
+
+###
+# Editando a questão pelo ID
+# PUT http://localhost:3030/questions/0e929bff-67f3-4ae2-9783-42a01e0e7cad
+# content-type: application/json
+# {
+#     "titleQuestion":"Questão Primeira",
+#     "correctAnswer":0,
+#     "answers":[
+#         "Pergunta 01",
+#         "Pergunta 02",
+#         "Pergunta 03",
+#         "Pergunta 04",
+#         "Pergunta 05"
+#     ]
+# }
+
+###
+# Deletando a questão pelo ID
+DELETE  http://localhost:3030/questions/271ffb9c-1e52-49ec-8404-dfe1be1bd863

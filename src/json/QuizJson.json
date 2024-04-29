@@ -1,0 +1,152 @@
+[
+    {
+        "pergunta": "Qual é a capital do Brasil?",
+        "respostas": ["Rio de Janeiro", "Brasília", "São Paulo", "Belo Horizonte"],
+        "resposta_correta": "Brasília"
+    },
+    {
+        "pergunta": "Quanto é 5 + 7?",
+        "respostas": ["10", "12", "15", "8"],
+        "resposta_correta": "12"
+    },
+    {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "respostas": ["Machado de Assis", "Cervantes", "Shakespeare", "Tolstói"],
+        "resposta_correta": "Cervantes"
+    },
+    {
+        "pergunta": "Qual é o maior planeta do nosso sistema solar?",
+        "respostas": ["Júpiter", "Marte", "Vênus", "Saturno"],
+        "resposta_correta": "Júpiter"
+    },
+    {
+        "pergunta": "Em que ano ocorreu a Independência do Brasil?",
+        "respostas": ["1822", "1492", "1776", "1888"],
+        "resposta_correta": "1822"
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "respostas": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+        "resposta_correta": "George Washington"
+    },
+    {
+        "pergunta": "Qual é o símbolo químico do ouro?",
+        "respostas": ["Au", "Ag", "Fe", "Cu"],
+        "resposta_correta": "Au"
+    },
+    {
+        "pergunta": "Quantos lados tem um triângulo equilátero?",
+        "respostas": ["3", "4", "5", "6"],
+        "resposta_correta": "3"
+    },
+    {
+        "pergunta": "Quem escreveu 'Romeu e Julieta'?",
+        "respostas": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Leo Tolstoy"],
+        "resposta_correta": "William Shakespeare"
+    },
+    {
+        "pergunta": "Qual é o elemento mais abundante na crosta terrestre?",
+        "respostas": ["Oxigênio", "Silício", "Alumínio", "Ferro"],
+        "resposta_correta": "Silício"
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "resposta_correta": "Pacífico"
+    },
+    {
+        "pergunta": "Quem pintou a Mona Lisa?",
+        "respostas": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "resposta_correta": "Leonardo da Vinci"
+    },
+    {
+        "pergunta": "Em que ano a Revolução Russa ocorreu?",
+        "respostas": ["1917", "1789", "1848", "1923"],
+        "resposta_correta": "1917"
+    },
+    {
+        "pergunta": "Qual é a capital da França?",
+        "respostas": ["Londres", "Berlim", "Madrid", "Paris"],
+        "resposta_correta": "Paris"
+    },
+    {
+        "pergunta": "Quem foi o fundador da Microsoft?",
+        "respostas": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+        "resposta_correta": "Bill Gates"
+    },
+    {
+        "pergunta": "Quantos elementos químicos existem naturalmente na tabela periódica?",
+        "respostas": ["92", "118", "103", "87"],
+        "resposta_correta": "92"
+    },
+    {
+        "pergunta": "Qual é o país mais populoso do mundo?",
+        "respostas": ["Índia", "China", "Estados Unidos", "Brasil"],
+        "resposta_correta": "China"
+    },
+    {
+        "pergunta": "Quem escreveu '1984'?",
+        "respostas": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+        "resposta_correta": "George Orwell"
+    },
+    {
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "respostas": ["Saara", "Antártica", "Gobi", "Karakum"],
+        "resposta_correta": "Antártica"
+    },
+    {
+        "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+        "respostas": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "resposta_correta": "Neil Armstrong"
+    },
+    {
+        "pergunta": "Qual é o segundo maior planeta do nosso sistema solar?",
+        "respostas": ["Marte", "Saturno", "Urano", "Júpiter"],
+        "resposta_correta": "Saturno"
+    },
+    {
+        "pergunta": "Quem foi o cientista que formulou a Teoria da Relatividade?",
+        "respostas": ["Isaac Newton", "Galileu Galilei", "Niels Bohr", "Albert Einstein"],
+        "resposta_correta": "Albert Einstein"
+    },
+    {
+        "pergunta": "Qual é o nome da cor oposta ao verde no círculo cromático?",
+        "respostas": ["Azul", "Vermelho", "Amarelo", "Roxo"],
+        "resposta_correta": "Roxo"
+    },
+    {
+        "pergunta": "Em que ano teve início a Segunda Guerra Mundial?",
+        "respostas": ["1935", "1939", "1941", "1945"],
+        "resposta_correta": "1939"
+    },
+    {
+        "pergunta": "Quem foi o autor de 'O Senhor dos Anéis'?",
+        "respostas": ["J.K. Rowling", "J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin"],
+        "resposta_correta": "J.R.R. Tolkien"
+    },
+    {
+        "pergunta": "Quantos lados tem um heptágono?",
+        "respostas": ["6", "7", "8", "9"],
+        "resposta_correta": "7"
+    },
+    {
+        "pergunta": "Qual é o maior mamífero terrestre?",
+        "respostas": ["Elefante Africano", "Rinoceronte Branco", "Baleia Azul", "Girafa"],
+        "resposta_correta": "Baleia Azul"
+    },
+    {
+        "pergunta": "Quem pintou 'A Noite Estrelada'?",
+        "respostas": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Edvard Munch"],
+        "resposta_correta": "Vincent van Gogh"
+    },
+    {
+        "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+        "respostas": ["Ferro", "Alumínio", "Cobre", "Ouro"],
+        "resposta_correta": "Alumínio"
+    },
+    {
+        "pergunta": "Quem foi o primeiro imperador romano?",
+        "respostas": ["Júlio César", "Augusto", "Nero", "Marco Antônio"],
+        "resposta_correta": "Augusto"
+    }
+]
