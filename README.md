@@ -12,7 +12,7 @@
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
 `PORT=3030`
-`HOST=192.168.0.100`
+`HOST=127.0.0.1`
 
 ## Aprendizados
 
